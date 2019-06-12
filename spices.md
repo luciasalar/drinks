@@ -1,0 +1,5 @@
+paprika
+sesame
+soysource
+salt
+
